@@ -15,3 +15,8 @@ then open another terminal and type in the address :
 <br>
  telnet **the ip mentioned in the main.go file**
 you will have your chat server running.
+<br>
+here is a screenshot
+<br>
+### Star , if you liked any of the content 
+![screenshot](https://github.com/saurabh98s/TCP-Chat-Server/blob/master/Screenshot%20(89).png)
