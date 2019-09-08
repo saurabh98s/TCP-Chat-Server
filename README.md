@@ -5,7 +5,7 @@ A TCP chat client server(GoLang)
  2.BROADCAST MESSAGES
  3.GET MESSAGES
  4. FOR DEAD CONNECTIONS.
-# KNOW MORE ABOUT CHANNELS HERE: https://gobyexample.com/channels
+## KNOW MORE ABOUT CHANNELS HERE: https://gobyexample.com/channels
  To run the code you must have Go installed
  you can run it by simply entering the command:
  go run main.go
