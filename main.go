@@ -11,7 +11,7 @@ func main()  {
   if err != nil {
     log.Println(err.Error())
   }
-  //we will need channels for incoming connections,ded connections and messages.
+  //we will need channels for incoming connections,dead connections and messages.
   // so we build 3 channels as below
   aconns:=make(map[net.Conn]int)
   conns:=make(chan net.Conn)
